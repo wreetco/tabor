@@ -1,0 +1,14 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body, html {
+	background-color: #444;
+}
+
+.page {
+	background-color: #fff;
+	min-height: 90vh;
+	padding: 0 1em;
+}
